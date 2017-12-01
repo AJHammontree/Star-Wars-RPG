@@ -1,0 +1,69 @@
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background: url("../images/x-wing.jpg");
+}
+
+h1 {
+	font-size:350%;
+	position:absolute;
+	right:125px;
+	top:10px;
+}
+
+.image {
+	display:inline-block;
+	height: 145px;
+	border:solid green;
+	padding:0px 20px 0px 20px;
+	margin: 0px 2px 0px 10px;
+	background-color:white;
+}
+
+.image p {
+	text-align:center;
+	margin: 0px 2px 0px 2px;
+}
+
+#character {
+	height: 190px;
+	margin-top:20px;
+}
+
+.character {
+	background-color: #5bf048;
+	border-color:blue;
+}
+
+ h3 {
+	font-size: 2em;
+	margin-left:10px;
+}
+
+button {
+	margin-left:10px;
+}
+
+.enemies {
+	background-color: #48f0dd;
+	background-color:#f0485b;
+	margin: 0px 2px 0px 10px;
+}
+
+
+#defender {
+	height: 210px;
+}
+
+
+.defender {
+	border-color: purple;
+	background-color: #f0dd48;
+}
+
+#message {
+	
+	font-weight: bold;
+	font-size:1.5em;
+	color:red;
+	margin-left:10px;
+}
